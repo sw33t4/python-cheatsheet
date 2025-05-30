@@ -6,6 +6,7 @@ Comprehensive Python Cheatsheet
 ![Monty Python](web/image_888.jpeg)
 
 Это изменение в branch1
+Это 2 изменение в branch1
 
 Contents
 --------
