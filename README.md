@@ -8,6 +8,8 @@ Comprehensive Python Cheatsheet
 Это изменение в branch1
 Это 2 изменение в branch1
 Это 3 изменение в branch1
+
+Это изменение в branch2
 Contents
 --------
 **&nbsp;&nbsp;&nbsp;** **1. Collections:** **&nbsp;** **[`List`](#list)**__,__ **[`Dictionary`](#dictionary)**__,__ **[`Set`](#set)**__,__ **[`Tuple`](#tuple)**__,__ **[`Range`](#range)**__,__ **[`Enumerate`](#enumerate)**__,__ **[`Iterator`](#iterator)**__,__ **[`Generator`](#generator)**__.__  
