@@ -11,6 +11,7 @@ Comprehensive Python Cheatsheet
 
 Это изменение в branch2
 Это 2 изменение в branch2
+Это 3 изменение в branch2
 
 Contents
 --------
