@@ -9,6 +9,7 @@ Comprehensive Python Cheatsheet
 Это 2 изменение в branch1
 Это 3 изменение в branch1
 Еще одно изменение в branch1
+Еще одно изменение в branch1
 
 Contents
 --------
